@@ -1,2 +1,2 @@
 # R_BANK_PROJECT
-R project used gradient boosting for modelling 
+R project using gradient boosting for modelling 
